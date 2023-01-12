@@ -2,5 +2,9 @@
     "Amazon": {
         "email": "aswinachoozzzakm@gmail.com",
         "password": "V65tR&V7k%"
+    },
+    "Test Email For Smtplib": {
+        "email": "projectday32@gmail.com",
+        "password": "$N7*KY7Q6$D"
     }
 }
